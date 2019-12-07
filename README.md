@@ -17,6 +17,18 @@ Before you open source your project, consider the effort required to maintain it
 ## FAQ
 
 #### Who owns the code I contribute to open source projects?
+My Company
+
+##What is the purpose of this repository?
+for training
+##Who should someone contact if they have questions?
+me
+##How should someone make contact if they have questions?
+yes
+##What are the first steps to getting started open sourcing a project?
+download the files
+##How does this repository relate to other projects and business goals?
+dhd
 
 ## License
 
